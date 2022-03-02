@@ -1,3 +1,7 @@
+# This code trades poorly and loses money, oops
+
+
+
 import MetaTrader5 as mt5
 import time
 from datetime import datetime, timedelta
